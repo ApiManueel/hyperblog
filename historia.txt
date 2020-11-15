@@ -2,6 +2,8 @@ Hola estoy haciendo el curso de git y estoy aprendiendo hacer commit
 
 Mañana nos enfocaremos en su vida laboras
 
+master 1
+
 Algunos comandos de git adicionales
 
 
